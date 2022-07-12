@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Checkout Item from Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b90e60b2-0c27-4ea2-a4e8-9bd2c7facec8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f04440ac-1c94-4357-9731-a9ad11c9fbf1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea84df28-e9e1-48a7-9794-3198046f1fe0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2de8de70-937f-43eb-a0df-1a4541ab5f62</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ca51f32-82a6-41ee-a7d8-873a42673d31</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ayub Yoga'</defaultValue>
+      <description></description>
+      <id>f04440ac-1c94-4357-9731-a9ad11c9fbf1</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'ayubyogaa@gmail.com'</defaultValue>
+      <description></description>
+      <id>ea84df28-e9e1-48a7-9794-3198046f1fe0</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'08112388774'</defaultValue>
+      <description></description>
+      <id>2de8de70-937f-43eb-a0df-1a4541ab5f62</id>
+      <masked>false</masked>
+      <name>phonenumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sarijadi Blok 12 No. 118, Bandung, Jawa Barat'</defaultValue>
+      <description></description>
+      <id>6ca51f32-82a6-41ee-a7d8-873a42673d31</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+</TestCaseEntity>

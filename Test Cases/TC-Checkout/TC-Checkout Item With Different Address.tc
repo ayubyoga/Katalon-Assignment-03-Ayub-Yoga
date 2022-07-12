@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Checkout Item With Different Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e5e09a7-bba1-4d0a-b3e2-bdb81c4f1aa0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8fa7c680-35b1-4c30-8b04-bd38d1d14cf5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sarijadi Blok 12 No. 118, Bandung, Jawa Barat'</defaultValue>
+      <description></description>
+      <id>8fa7c680-35b1-4c30-8b04-bd38d1d14cf5</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+</TestCaseEntity>
